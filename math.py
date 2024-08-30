@@ -1,0 +1,5 @@
+twotothepoweroffive = (2 ** 5)
+print(twotothepoweroffive)
+anotherone = (8/4 * 2 + 32 - 8)
+print(anotherone)
+print (1 or 2)
